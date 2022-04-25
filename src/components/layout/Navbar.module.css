@@ -1,0 +1,35 @@
+.image{
+    background-size: 100% 100%;
+    width: 100px;
+    height: 100px;
+    border-radius: 300px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+    margin-bottom: -0.7em;   
+}
+
+.item{
+    background: rgb(179, 46, 41);
+    color: rgb(255, 255, 255);
+    font: normal Arial;
+    border-radius: 6px;
+    width: 200px;
+    height: 30px;
+    cursor: pointer;
+    transition: background .3s;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+    margin-left: 0.3em; 
+}
+
+.item a{
+    text-decoration: none;
+    color: white;
+}
