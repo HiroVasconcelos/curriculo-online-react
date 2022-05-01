@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/curriculo-online-react/static/css/main.8c1334ba.css",
+    "main.js": "/curriculo-online-react/static/js/main.5019a20f.js",
+    "static/js/787.0389a482.chunk.js": "/curriculo-online-react/static/js/787.0389a482.chunk.js",
+    "static/media/fotoPerfil.jpeg": "/curriculo-online-react/static/media/fotoPerfil.271ec7a596c420ab3c8c.jpeg",
+    "index.html": "/curriculo-online-react/index.html",
+    "main.8c1334ba.css.map": "/curriculo-online-react/static/css/main.8c1334ba.css.map",
+    "main.5019a20f.js.map": "/curriculo-online-react/static/js/main.5019a20f.js.map",
+    "787.0389a482.chunk.js.map": "/curriculo-online-react/static/js/787.0389a482.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c1334ba.css",
+    "static/js/main.5019a20f.js"
+  ]
+}
